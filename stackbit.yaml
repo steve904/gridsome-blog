@@ -1,0 +1,19 @@
+stackbitVersion: ~0.3.0
+ssgName: gridsome
+nodeVersion: '12'
+pagesDir: content/posts
+models:
+  post:
+    type: page
+    label: Post
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: description
+        label: Description
+      - type: date
+        name: date
+        label: Date
