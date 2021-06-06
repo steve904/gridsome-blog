@@ -1,14 +1,14 @@
 ---
 title: "Sunday Driving"
 description: "Jump in your car and go for a Sunday drive."
-date: 2019-05-23
+date: 2021-06-05
 ---
 
 ## Gas Her Up!
 Get that wonderful car of yours filled up with gas and head out on the highway or the byways.
 
 
-So many relaxing things you can do on a Sunday to enjoy yourself. Get your family to go with you and look for some interesting places to spend time with them. 
+So many relaxing things you can do on a Sunday to enjoy yourself. Get your family to go with you and look for some interesting places to spend time with them.
 
 ## What is Alternative Text?
 Alternative text or alt text as it is fondly called is a written text description for an image on the web.
